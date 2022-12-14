@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="0.161">
+<testcase classname="Amazon Search" name="Amazon Search a product" time="0.032">
+<system-out><![CDATA[Given The user is on the Search page of Amazon..............................passed
+When The user Search for the "Apple Iphone14 Pro"...........................passed
+Then The user should see the result for the "apple Iphone14 Pro"............passed
+]]></system-out>
+</testcase>
+</testsuite>
